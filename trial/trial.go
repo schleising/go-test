@@ -5,5 +5,5 @@ import "fmt"
 func Trial() bool {
 	fmt.Println("Hello")
 
-	return false
+	return true
 }
